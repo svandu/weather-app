@@ -1,5 +1,5 @@
 import './App.css'
-import TempApp from './Components/TempApp'
+import TempApp from './TempApp'
 
 function App() {
 
